@@ -1,6 +1,9 @@
 ## Status - "Ongoing"
 
-[Visit live deployment](https://taupe-sorbet-197415.netlify.app/)
+[Visit live deployment](https://melodic-frangollo-d515ad.netlify.app)
+Live Deployment Error (Experimental Server actions).
+
+To see it working locally, clone the repo, run `npm install` then `npm run build` then `npm run start`
 
 ## App Info
 
@@ -12,7 +15,11 @@ Next.js 13 (App Router), TailwindCSS
 
 ## Highlights
 
+- Created using Server Actions (currently experimental in Next.js 13)
 - Custom Infinite Scroll Feature for display of movie list
+- Fully Responsive
+- Search Functionality (Debounced)
+- API in use - [TMDB](https://themoviedb.org)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
